@@ -3,7 +3,7 @@ html, body {
     background-color: #fff;
     margin: 0;
     height: 100%;
-    overflow: hidden;
+    overflow: hidden; 
 }
 
 #blob {
